@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Ksfraser\Roster\Tests\Unit\Entity;
+namespace ksfraser\Roster\Tests\Unit\Entity;
 
 use PHPUnit\Framework\TestCase;
-use Ksfraser\Roster\Entity\Roster;
+use ksfraser\Roster\Entity\Roster;
 
 class RosterTest extends TestCase
 {

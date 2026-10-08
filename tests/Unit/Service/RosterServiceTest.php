@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace Ksfraser\Roster\Tests\Unit\Service;
+namespace ksfraser\Roster\Tests\Unit\Service;
 
 use PHPUnit\Framework\TestCase;
-use Ksfraser\Roster\Service\RosterService;
-use Ksfraser\Roster\Entity\Roster;
+use ksfraser\Roster\Service\RosterService;
+use ksfraser\Roster\Entity\Roster;
 
 class RosterServiceTest extends TestCase
 {
@@ -122,6 +122,6 @@ class RosterServiceTest extends TestCase
     public function testServiceImplementsInterface(): void
     {
         $service = new RosterService();
-        $this->assertInstanceOf(\Ksfraser\Roster\Service\RosterServiceInterface::class, $service);
+        $this->assertInstanceOf(\ksfraser\Roster\Service\RosterServiceInterface::class, $service);
     }
 }

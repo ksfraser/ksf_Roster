@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Ksfraser\Roster\Entity;
+namespace ksfraser\Roster\Entity;
 
 class Roster
 {

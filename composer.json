@@ -11,12 +11,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Ksfraser\\": "src/Ksfraser/"
+            "ksfraser\\": "src/ksfraser/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Ksfraser\\Roster\\Tests\\": "tests/"
+            "ksfraser\\Roster\\Tests\\": "tests/"
         }
     },
     "minimum-stability": "dev"

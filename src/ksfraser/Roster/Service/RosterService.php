@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Ksfraser\Roster\Service;
+namespace ksfraser\Roster\Service;
 
-use Ksfraser\Roster\Entity\Roster;
+use ksfraser\Roster\Entity\Roster;
 
 class RosterService implements RosterServiceInterface
 {
