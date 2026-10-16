@@ -15,7 +15,7 @@ Module business logic layer with entities, services, and integration points.
 
 ### 1.1 Namespace
 ```php
-Ksfraser\MODULE_NS\
+ksfraser\MODULE_NS\
 ```
 
 ---
